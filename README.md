@@ -2,7 +2,7 @@
 
 Class Dojo fork to fix the issue listed here: https://github.com/reactjs/react-modal/issues/211
 
-Update May 8, 2018: The issue has been fixed oficially in react-modal lib. We are going to upgrade to latest and once all works in all our platforms we'll remove our custom fork.
+Update May 8, 2018: The issue has been fixed oficially in react-modal lib. We are going to upgrade to latest and once all works in all our platforms we'll remove our custom fork. Web version 3.11.60 addresses the react-modal upgrade (https://github.com/classdojo/web/pull/272)
 
 ----
 
